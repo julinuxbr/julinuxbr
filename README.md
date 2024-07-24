@@ -12,8 +12,8 @@
 - Technology and development initiatives
 - Development teams looking to enhance skills and deliver innovative solutions
 📫 How to reach me:
-- Email: (julinuxbr@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/junior-linux-39145131b)
+- Email: julinuxbr@gmail.com
+- LinkedIn: www.linkedin.com/in/junior-linux-39145131b
 😄 Pronouns:
 - He/Him
 ⚡ Fun fact:
